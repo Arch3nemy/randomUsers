@@ -1,1 +1,1 @@
-# Template for kotlin gradle, jetpack compose and clean architecture 
+# Interaction with randomuser.me api
