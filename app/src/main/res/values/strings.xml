@@ -18,5 +18,6 @@
     <string name="number_restriction">Number must be under 100</string>
     <string name="enter_valid_number">Enter valid number</string>
     <string name="your_history">Your History</string>
+    <string name="app_logo">App logo</string>
 
 </resources>
