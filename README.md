@@ -1,4 +1,4 @@
-# Interaction with randomuser.me api. Technologies stack: Jetpack Compose, Dagger, Room, Retrofit and Kotlin Coroutines. Also MVI, Clean Architecture and Kotlin Gradle.
+## Interaction with randomuser.me api. Technologies stack: Jetpack Compose, Dagger, Room, Retrofit and Kotlin Coroutines. Also MVI, Clean Architecture and Kotlin Gradle.
 
 
 ### Splash screen animation.
