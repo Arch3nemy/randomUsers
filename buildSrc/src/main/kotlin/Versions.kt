@@ -33,7 +33,7 @@ object Versions {
     const val room = "2.4.3"
 
     // compose image
-    const val glide = "2.0.3"
+    const val glide = "2.1.4"
 
     /**
      * kotlinCompilerExtension NEEDS TO BE CHANGED WITH KOTLIN VERSION EVERY TIME

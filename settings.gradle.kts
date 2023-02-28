@@ -1,4 +1,4 @@
-rootProject.name = "Template"
+rootProject.name = "RandomUsers"
 include(":app")
 include(":domain")
 include(":data")

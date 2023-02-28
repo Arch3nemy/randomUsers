@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Template</string>
+    <string name="app_name">Random Users</string>
+    <string name="load_users">Load users</string>
+    <string name="show_history">Show History</string>
+    <string name="amount_of_users_label">Enter amount of users to load</string>
+    <string name="name">"name: %1s"</string>
+    <string name="age">"age: %1s "</string>
+    <string name="email">"email: %1s"</string>
+    <string name="phone">"phone: %1s"</string>
+    <string name="gender">"gender: %1s"</string>
+    <string name="back_button">Back Button</string>
+    <string name="user_large_image">"User Large Image"</string>
+    <string name="userInfo">User Info</string>
+    <string name="successfully_saved">Successfully saved %1s</string>
+    <string name="already_saved">You already saved this user</string>
+    <string name="successfully_removed">Successfully removed %1s</string>
+    <string name="error_removing">Error removing %1s</string>
+    <string name="number_restriction">Number must be under 100</string>
+    <string name="enter_valid_number">Enter valid number</string>
+    <string name="your_history">Your History</string>
+
 </resources>

@@ -9,7 +9,7 @@ android {
     buildToolsVersion = Dependencies.android.buildTools
 
     defaultConfig {
-        applicationId = "com.alacrity.template"
+        applicationId = "com.alacrity.randomusers"
         minSdk = Android.minSdk
         targetSdk = Android.targetSdk
         versionCode = 1
@@ -20,10 +20,10 @@ android {
 
     buildTypes {
         debug {
-            buildConfigField("String", "BASE_URL", "\"https://jsonplaceholder.typicode.com\"")
+            buildConfigField("String", "BASE_URL", "\"https://randomuser.me\"")
         }
         release {
-            buildConfigField("String", "BASE_URL", "\"https://jsonplaceholder.typicode.com\"")
+            buildConfigField("String", "BASE_URL", "\"https://randomuser.me\"")
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
